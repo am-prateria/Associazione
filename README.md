@@ -1,1 +1,1 @@
-# Associazione
+file della associazione
